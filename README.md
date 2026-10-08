@@ -17,12 +17,12 @@ Making explanations shorter isn't enough: short and dull is still dull. So it st
    4. I know quite a bit but would like to learn more
 
    Your answer sets how deep it starts. If you've already said how much you know, it skips this question. If you pick 4 on a broad topic, it asks which part you want to learn more about.
-2. **One idea at a time.** Each idea opens with the real problem it solves, then a short explanation and a single quick question. No "ready?" prompts; it flows like a conversation.
+2. **One idea at a time.** Each idea opens with the real problem it solves, then a short explanation. It only asks you a question on the trickier ideas, so it never feels like a quiz. No "ready?" prompts; it flows like a conversation.
 3. **It goes deeper when you're ready.** When you've got the basics, it asks if you want to go deeper. You never see levels, stage numbers, or step counters.
-4. **A light ending.** When the core idea has landed, it closes with a conversational question like "How would you explain this to a friend?" It only asks more if something is still shaky. Review questions go in your notes.
+4. **A light ending.** When the core idea has landed, it closes with a conversational question like "How would you explain this to a friend?" Review questions go in your notes, so you can test yourself later.
 5. **Notes saved automatically.** You get a `learning-notes-<topic>.md` file with what you can explain, tricky spots, and review questions. Upload it next time to pick up where you left off.
 
-Wrong answers are welcome. You get one hint and another try, then a clear explanation, with no fuss.
+Wrong answers are welcome. If you get something wrong, it just explains the right answer clearly and carries on, with no fuss and no re-asking. Want another go? Just ask.
 
 **You're in charge.** Whatever you ask for ("explain it all at once," "no questions," "longer explanations") comes first and stays that way until you change it.
 
